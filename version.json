@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apk": "EarHandoff-1.9.apk",
-  "sha256": "db76646d2fd6d7753bedeb3b52781dcb1570d051c197e2908da4e7d3eaf30afe",
-  "size": 39876,
-  "notes": "알림 권한 안 물어봄, 최근 기록 숨기기"
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apk": "EarHandoff-2.0.apk",
+  "sha256": "0568ba5ae817b0bf5639555896d5e69f9c84e848dae14da743739941f65ff1cf",
+  "size": 40268,
+  "notes": "전환이 가끔 안 되던 문제 수정"
 }
