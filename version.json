@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "apk": "EarHandoff-2.3.apk",
-  "sha256": "a99507b0e2d38d4308cf18555a367d65c3119ca397b8203e5f7834b2cb33effe",
-  "size": 75529,
-  "notes": "고른 이어폰이 폰에 연결됐을 때만 동작 (절전) · 이어폰 선택"
+  "versionCode": 15,
+  "versionName": "2.4",
+  "apk": "EarHandoff-2.4.apk",
+  "sha256": "85c505b155640e247af0adf1196d895b5e6aaf4131699c57de09d4722aa392e5",
+  "size": 43808,
+  "notes": "이어폰을 꺼낼 때 폰이 먼저 연결되도록 · 업데이트 확인 즉시 반영"
 }
