@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "apk": "EarHandoff-2.5.apk",
-  "sha256": "8d856aedbd123823c7dfb7c6401312913a6f5122268584e847223a110f80cd36",
-  "size": 47584,
-  "notes": "차 선택: 차에 연결돼 있으면 PC 찾기 쉬기 · 통화 기록 정정"
+  "versionCode": 17,
+  "versionName": "2.6",
+  "apk": "EarHandoff-2.6.apk",
+  "sha256": "28a62c815aec08a6df77a9115145705a64e9d497ce3c9bd9e4d46ef943ec4e65",
+  "size": 47944,
+  "notes": "자동 전환을 끄면 노트북에 알림 · 차 선택(2.5) 포함"
 }
