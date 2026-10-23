@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "apk": "EarHandoff-2.0.apk",
-  "sha256": "0568ba5ae817b0bf5639555896d5e69f9c84e848dae14da743739941f65ff1cf",
-  "size": 40268,
-  "notes": "전환이 가끔 안 되던 문제 수정"
+  "versionCode": 12,
+  "versionName": "2.1",
+  "apk": "EarHandoff-2.1.apk",
+  "sha256": "be1f5ac2a8751f09ec0b052fb7eb3869ad87bc12ca37a678f6958b2abdb483f6",
+  "size": 40360,
+  "notes": "전환 반응 속도 개선 (블루투스 절전 방지)"
 }
