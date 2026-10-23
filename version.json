@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apk": "EarHandoff-1.6.apk",
-  "sha256": "1084000a4bf5ac207c7b1a9c8cfd91e5856aa47e9709088237869d1e0e13c568",
-  "size": 39376,
-  "notes": "PC에서 나중에 재생하면 PC로 넘어가도록 수정"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apk": "EarHandoff-1.7.apk",
+  "sha256": "6fcf14e4dda181476379292136d63d528f96fb1ea71c6c2925a06d953f75ed3e",
+  "size": 39396,
+  "notes": "전환 대기 시간 단축 (1.5초 → 0.6초)"
 }
