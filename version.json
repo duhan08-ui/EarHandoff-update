@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apk": "EarHandoff-1.4.apk",
-  "sha256": "6be9083b8ca4eccb5c0e966660ac8907830317f85cc905957f55667f7690ea9b",
-  "size": 38752,
-  "notes": "자동 전환 스위치 색 개선"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apk": "EarHandoff-1.5.apk",
+  "sha256": "a9407ebaf4073a9edf648c3549a26b0a10effff42398bca484833542d01cc6bb",
+  "size": 39132,
+  "notes": "폰에서 재생 누르면 바로 PC 일시정지"
 }
