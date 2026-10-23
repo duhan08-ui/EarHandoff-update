@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "apk": "EarHandoff-2.2.apk",
-  "sha256": "ba6389b2d7326ae289f031bd75b197284decd115c8c625a90bb289550d7331ff",
-  "size": 40872,
-  "notes": "전환 지연 측정용"
+  "versionCode": 14,
+  "versionName": "2.3",
+  "apk": "EarHandoff-2.3.apk",
+  "sha256": "a99507b0e2d38d4308cf18555a367d65c3119ca397b8203e5f7834b2cb33effe",
+  "size": 75529,
+  "notes": "고른 이어폰이 폰에 연결됐을 때만 동작 (절전) · 이어폰 선택"
 }
