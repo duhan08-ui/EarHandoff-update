@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apk": "EarHandoff-1.5.apk",
-  "sha256": "a9407ebaf4073a9edf648c3549a26b0a10effff42398bca484833542d01cc6bb",
-  "size": 39132,
-  "notes": "폰에서 재생 누르면 바로 PC 일시정지"
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apk": "EarHandoff-1.6.apk",
+  "sha256": "1084000a4bf5ac207c7b1a9c8cfd91e5856aa47e9709088237869d1e0e13c568",
+  "size": 39376,
+  "notes": "PC에서 나중에 재생하면 PC로 넘어가도록 수정"
 }
