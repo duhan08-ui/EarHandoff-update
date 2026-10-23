@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "apk": "EarHandoff-2.4.apk",
-  "sha256": "85c505b155640e247af0adf1196d895b5e6aaf4131699c57de09d4722aa392e5",
-  "size": 43808,
-  "notes": "이어폰을 꺼낼 때 폰이 먼저 연결되도록 · 업데이트 확인 즉시 반영"
+  "versionCode": 16,
+  "versionName": "2.5",
+  "apk": "EarHandoff-2.5.apk",
+  "sha256": "8d856aedbd123823c7dfb7c6401312913a6f5122268584e847223a110f80cd36",
+  "size": 47584,
+  "notes": "차 선택: 차에 연결돼 있으면 PC 찾기 쉬기 · 통화 기록 정정"
 }
