@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "2.6",
-  "apk": "EarHandoff-2.6.apk",
-  "sha256": "28a62c815aec08a6df77a9115145705a64e9d497ce3c9bd9e4d46ef943ec4e65",
-  "size": 47944,
-  "notes": "자동 전환을 끄면 노트북에 알림 · 차 선택(2.5) 포함"
+  "versionCode": 18,
+  "versionName": "2.7",
+  "apk": "EarHandoff-2.7.apk",
+  "sha256": "2f3a617f44f442f4784f4ba52b3974ea80e83edf29ce35e7b231143e3fa485f8",
+  "size": 49944,
+  "notes": "배터리 절약: 폰은 잠깐만 노트북을 찾고, 그 뒤에는 노트북이 폰을 찾아 연결 (노트북 1.5.0 필요)"
 }
