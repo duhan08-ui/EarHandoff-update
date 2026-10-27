@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
-  "apk": "EarHandoff-2.7.apk",
-  "sha256": "2f3a617f44f442f4784f4ba52b3974ea80e83edf29ce35e7b231143e3fa485f8",
-  "size": 49944,
-  "notes": "배터리 절약: 폰은 잠깐만 노트북을 찾고, 그 뒤에는 노트북이 폰을 찾아 연결 (노트북 1.5.0 필요)"
+  "versionCode": 19,
+  "versionName": "2.8",
+  "apk": "EarHandoff-2.8.apk",
+  "sha256": "87a03ad3017175592537f6053f9094c26c70e6ca9885679fa4872c8dda9cdaa2",
+  "size": 54256,
+  "notes": "재생 앱 구분(알림 접근): 무음 자동 재생 무시, 멈춘 그 앱만 다시 재생 · 폰 기록을 노트북에 남김 · 통화 끝 2초 확인"
 }
