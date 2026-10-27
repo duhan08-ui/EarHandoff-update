@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "2.7.4",
-  "apk": "EarHandoff-2.7.4.apk",
-  "sha256": "12ea036226c28904e9c07317923be99d6ca5dbd09040e584764726ec223fcfaa",
-  "size": 53324,
-  "notes": "폰 앱 기록을 노트북 기록에도 남김 (노트북 1.5.8 필요)"
+  "versionCode": 29,
+  "versionName": "2.7.5",
+  "apk": "EarHandoff-2.7.5.apk",
+  "sha256": "4de8ca76770766f99dc57cf7832f0a94b4ac670ced5c1e7fa78e2dfba066a26d",
+  "size": 50500,
+  "notes": "2.7 동작으로 되돌림 (노트북 자동 다시 재생·오디오 포커스 뺌), 폰 기록 보내기는 유지 (노트북 1.5.9)"
 }
