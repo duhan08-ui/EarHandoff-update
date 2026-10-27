@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "2.9",
-  "apk": "EarHandoff-2.9.apk",
-  "sha256": "d31179dd802650db762bd4d349985c3c50c14f67d4c0b2fb816c5fb33c32bf0e",
-  "size": 55708,
-  "notes": "인스타처럼 재생 앱이 아닌 앱도 소리를 켜면 폰으로 넘김 (오디오 포커스로 판단, 시험)"
+  "versionCode": 21,
+  "versionName": "2.10",
+  "apk": "EarHandoff-2.10.apk",
+  "sha256": "68e0d89d2bb10581c22dd921c49dcf0bfd0845d28cc8c8483ae04707376f4d2b",
+  "size": 56092,
+  "notes": "소리 켬 판단 보강(소리 줄임 요청도 2.5초 넘으면) · 오디오 포커스 진단 기록"
 }
