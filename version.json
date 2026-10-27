@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "2.7.1",
-  "apk": "EarHandoff-2.7.1.apk",
-  "sha256": "0c1e99cc9495560559591544319068666b050b92b1a961ba3112035916840bf6",
-  "size": 49940,
-  "notes": "2.7로 되돌림 (점심때 쓰던 것과 같은 코드, 번호만 올림)"
+  "versionCode": 26,
+  "versionName": "2.7.2",
+  "apk": "EarHandoff-2.7.2.apk",
+  "sha256": "e23be42c67c7686c835294b586869b84d6354be8d16325fb72d1b1a436c6f3ce",
+  "size": 51580,
+  "notes": "2.7 + 폰 블루투스 오디오가 닫히는 순간을 노트북에 알림 (노트북을 두 번 눌러야 하던 문제용, 노트북 1.5.6 필요)"
 }
