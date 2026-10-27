@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "2.10",
-  "apk": "EarHandoff-2.10.apk",
-  "sha256": "68e0d89d2bb10581c22dd921c49dcf0bfd0845d28cc8c8483ae04707376f4d2b",
-  "size": 56092,
-  "notes": "소리 켬 판단 보강(소리 줄임 요청도 2.5초 넘으면) · 오디오 포커스 진단 기록"
+  "versionCode": 23,
+  "versionName": "2.12",
+  "apk": "EarHandoff-2.12.apk",
+  "sha256": "0e59ec61360456489469c90e64fe355ff13e3853fb2c634de61720d81f5230ca",
+  "size": 55596,
+  "notes": "예전 방식 복원: 인스타 등 소리도 폰 재생으로 봄 · 무음 인스타 두고 노트북 재생하면 노트북 우선 유지 · 플로가 엉뚱하게 켜지는 문제 방지는 유지"
 }
