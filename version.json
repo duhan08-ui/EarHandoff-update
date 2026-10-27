@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "2.12",
-  "apk": "EarHandoff-2.12.apk",
-  "sha256": "0e59ec61360456489469c90e64fe355ff13e3853fb2c634de61720d81f5230ca",
-  "size": 55596,
-  "notes": "예전 방식 복원: 인스타 등 소리도 폰 재생으로 봄 · 무음 인스타 두고 노트북 재생하면 노트북 우선 유지 · 플로가 엉뚱하게 켜지는 문제 방지는 유지"
+  "versionCode": 24,
+  "versionName": "2.13",
+  "apk": "EarHandoff-2.13.apk",
+  "sha256": "eedd7b25ab67380089da9755d4bca08000f7e363310843c58e3fa2cea6d0aeb5",
+  "size": 54936,
+  "notes": "2.12 문제 수정: 폰 소리가 새로 나면 폰으로(인스타 포함), 이미 나던 소리 중 노트북 재생은 노트북 우선 · 노트북 재생 직후 튼 플로를 멈추던 규칙 삭제"
 }
