@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8",
-  "apk": "EarHandoff-2.8.apk",
-  "sha256": "87a03ad3017175592537f6053f9094c26c70e6ca9885679fa4872c8dda9cdaa2",
-  "size": 54256,
-  "notes": "재생 앱 구분(알림 접근): 무음 자동 재생 무시, 멈춘 그 앱만 다시 재생 · 폰 기록을 노트북에 남김 · 통화 끝 2초 확인"
+  "versionCode": 20,
+  "versionName": "2.9",
+  "apk": "EarHandoff-2.9.apk",
+  "sha256": "d31179dd802650db762bd4d349985c3c50c14f67d4c0b2fb816c5fb33c32bf0e",
+  "size": 55708,
+  "notes": "인스타처럼 재생 앱이 아닌 앱도 소리를 켜면 폰으로 넘김 (오디오 포커스로 판단, 시험)"
 }
