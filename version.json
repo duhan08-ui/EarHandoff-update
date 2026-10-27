@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "2.13",
-  "apk": "EarHandoff-2.13.apk",
-  "sha256": "eedd7b25ab67380089da9755d4bca08000f7e363310843c58e3fa2cea6d0aeb5",
-  "size": 54936,
-  "notes": "2.12 문제 수정: 폰 소리가 새로 나면 폰으로(인스타 포함), 이미 나던 소리 중 노트북 재생은 노트북 우선 · 노트북 재생 직후 튼 플로를 멈추던 규칙 삭제"
+  "versionCode": 25,
+  "versionName": "2.7.1",
+  "apk": "EarHandoff-2.7.1.apk",
+  "sha256": "0c1e99cc9495560559591544319068666b050b92b1a961ba3112035916840bf6",
+  "size": 49940,
+  "notes": "2.7로 되돌림 (점심때 쓰던 것과 같은 코드, 번호만 올림)"
 }
