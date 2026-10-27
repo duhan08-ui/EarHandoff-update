@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "2.7.3",
-  "apk": "EarHandoff-2.7.3.apk",
-  "sha256": "71f12a05a6c6fdadf160ddc8eaf80ff880d15b81858d4c05acd79398d0fbb582",
-  "size": 52792,
-  "notes": "노트북 재생 때 인스타처럼 일시정지 키를 안 받는 앱도 소리를 멈추도록 (노트북 1.5.7 필요)"
+  "versionCode": 28,
+  "versionName": "2.7.4",
+  "apk": "EarHandoff-2.7.4.apk",
+  "sha256": "12ea036226c28904e9c07317923be99d6ca5dbd09040e584764726ec223fcfaa",
+  "size": 53324,
+  "notes": "폰 앱 기록을 노트북 기록에도 남김 (노트북 1.5.8 필요)"
 }
