@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "2.7.6",
-  "apk": "EarHandoff-2.7.6.apk",
-  "sha256": "c7cedbf4f9756dfc3c6653bde37e5360d02acd4ccc0a3a464175c4f5723928a6",
-  "size": 52520,
-  "notes": "전화 받는 순간을 통화 끝으로 안 봄 · 통화 중엔 노트북 안 찾음 · 통화 소리 기록 (노트북 1.5.11 필요)"
+  "versionCode": 31,
+  "versionName": "2.7.7",
+  "apk": "EarHandoff-2.7.7.apk",
+  "sha256": "e79ae6983c1134d6f07d535398d0aeda02bcb923108269be495f10e77f173ea6",
+  "size": 55480,
+  "notes": "노트북이 근처에 없으면 이어폰 연결·폰 소리 시작 뒤 10초 동안 노트북을 안 찾음 (이어폰 소리 먼저) · 이어폰으로 소리 나가기 시작한 시각 기록"
 }
